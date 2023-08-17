@@ -1,4 +1,4 @@
-# fareja-virus-php
+# Farejador de Vírus em PHP
 
 Scanner de php que encontra arquivos comprometidos/infectados.
 
